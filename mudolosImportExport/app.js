@@ -5,7 +5,5 @@
 //para importar modulos se debe utilizar require y la ubicacion del archivo .js
 const  saludo = require("./saludos.js");
 
-
-
 console.log(saludo.saludar("xd"));
 console.log(saludo.holamundo());
