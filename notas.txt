@@ -1,0 +1,25 @@
+NPM
+Es el archivo de software mas grande del mundo que contiene paquetes que puedes instarlar y usar en node.js.
+npm es el sistema de gestión de paquetes por defecto para Node.js, un entorno de ejecución para JavaScript, 
+bajo Artistic License 2.0.
+
+PAQUETE
+Archivo o directorio descrito por un archivo package.json(es un modulo que contiene un archivo package.json)
+
+MODULO 
+Cualquie archivo o directorio en el directorio node_modules que puede ser importado con require()
+
+DEPENDENCIA
+Paquete que otro paquete necesita para funcionar correctamente
+
+npm init
+Se utiliza para crear un paquete
+
+
+
+
+
+
+
+
+
