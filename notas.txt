@@ -15,6 +15,14 @@ Paquete que otro paquete necesita para funcionar correctamente
 npm init
 Se utiliza para crear un paquete
 
+Emitters(emisores)
+Objetos que emiten eventos nombrados y llaman a funciones especificas cuando ocurren.
+Son instancias de la clase  EventEmitter.
+Tienen un metodo .on(); para asociar una funcion al evento 
+
+
+Para crear nuestros propios eventos se usa el modulo eventos, permite: definir, emitir y escuchar
+
 
 
 
