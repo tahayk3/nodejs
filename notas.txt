@@ -46,6 +46,9 @@ se ven asi: ?q=buscando+esto&id=otro+posible+parametro
 El otro tipo de paramtros que tiene una URL, son los parametro de ruta. 15 seria el parametro
 https://www.paginaweb.org/pasteles/15
 
+Routing
+Maneja la solicitud del cliente en base a ciertos criterios(Metodo:get,post, put etc y camino)
+
 
 
 
